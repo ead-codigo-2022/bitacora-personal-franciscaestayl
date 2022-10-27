@@ -18,6 +18,25 @@ body{
     -webkit-tap-highlight-color: transparent;
 }
 
+.main-contain {
+    background-color: #feeeb8;
+    max-width:100%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 73px;
+    padding-right: 73px;
+}
+
+.main-contain-2 {
+    max-width:100%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 73px;
+    padding-right: 73px;
+}
+
 .entry-content{
     font-family: ‘Open Sans’, sans-serif;
   }
