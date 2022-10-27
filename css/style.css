@@ -5,7 +5,6 @@
   /* Body */
 body{
     margin: 0;
-    font-family: 'Montserrat';
     color: var(--color-dark);
     background: white;
     font-size: 1rem;
@@ -22,6 +21,7 @@ body{
 .entry-content{
     font-family: ‘Open Sans’, sans-serif;
   }
+  
   /* Variables */
   h1{
       padding: 2rem;
@@ -45,7 +45,6 @@ body{
     padding-top: 0.25rem!important;
     padding-bottom: 0.25rem!important;
 }
-
 /* Header */
 
 
