@@ -19,7 +19,7 @@ body{
 }
 
 .main-contain {
-    background-color: #feeeb8;
+    background-color: #E8B533;
     max-width:100%;
     margin: 0 auto;
     padding-top: 50px;
@@ -35,6 +35,10 @@ body{
     padding-bottom: 50px;
     padding-left: 73px;
     padding-right: 73px;
+}
+
+.featurette-divider {
+    margin: 5rem 0;
 }
 
 .entry-content{
