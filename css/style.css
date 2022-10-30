@@ -3,9 +3,6 @@
     border: 10px solid yellowgreen;
 }
 
- /* Header */
-
-
   /* Body */
 body{
 
@@ -78,16 +75,6 @@ body{
 .py-1 {
     padding-top: 0.25rem!important;
     padding-bottom: 0.25rem!important;
-}
-
-/* Box About */
-.bg-light {
-    --bs-bg-opacity: 1;
-    background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity))!important;
-}
-
-.p-4 {
-    padding: 1.5rem!important;
 }
 
 /* Tabla */
